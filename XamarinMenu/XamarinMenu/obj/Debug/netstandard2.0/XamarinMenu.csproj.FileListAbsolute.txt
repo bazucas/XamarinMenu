@@ -1,0 +1,15 @@
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\bin\Debug\netstandard2.0\XamarinMenu.deps.json
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\bin\Debug\netstandard2.0\XamarinMenu.dll
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\bin\Debug\netstandard2.0\XamarinMenu.pdb
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\XamarinMenu.csprojAssemblyReference.cache
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\Master\Menu.xaml.g.cs
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\Pages\Profile1.xaml.g.cs
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\Pages\Xamarin.xaml.g.cs
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\XamarinMenu.csproj.CoreCompileInputs.cache
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\XamarinMenu.AssemblyInfoInputs.cache
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\XamarinMenu.AssemblyInfo.cs
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\XamlC.stamp
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\XamarinMenu.dll
+D:\XamarinForms\XamarinMenu\XamarinMenu\XamarinMenu\obj\Debug\netstandard2.0\XamarinMenu.pdb
